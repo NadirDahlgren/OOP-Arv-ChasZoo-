@@ -1,5 +1,4 @@
 ﻿using System;
-using OOP_Arv.ChasZoo;
 
 namespace OOP_Arv.ChasZoo
 {
